@@ -342,9 +342,9 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 Need help or have questions?
 
-- 📧 **Email**: [your-email@example.com](mailto:your-email@example.com)
-- 🐛 **Issues**: [GitHub Issues](https://github.com/yourusername/algorithm-visualizer/issues)
-- 💬 **Discussions**: [GitHub Discussions](https://github.com/yourusername/algorithm-visualizer/discussions)
+- 📧 **Email**: [your-email@example.com](mailto:abhishek23@gmail.com)
+- 🐛 **Issues**: [GitHub Issues](https://github.com/AbhishekS04/visualizer/issues)
+- 💬 **Discussions**: [GitHub Discussions](https://github.com/AbhishekS04/visualizer/discussions)
 
 ---
 
