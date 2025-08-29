@@ -342,7 +342,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 Need help or have questions?
 
-- 📧 **Email**: [your-email@example.com](mailto:abhishek23@gmail.com)
+- 📧 **Email**: [abhishek23main@gmail.com](mailto:abhishek23main@gmail.com)
 - 🐛 **Issues**: [GitHub Issues](https://github.com/AbhishekS04/visualizer/issues)
 - 💬 **Discussions**: [GitHub Discussions](https://github.com/AbhishekS04/visualizer/discussions)
 
